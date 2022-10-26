@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T15:38:38.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="vILRRsNm5bytBv6jECoi" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T15:39:19.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="k2o6hS1Zsji-AJ87axtO" version="20.5.1" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="3107" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -13,10 +13,7 @@
         <mxCell id="4" value="Quản lý phần thưởng" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="960" y="159.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lWP5btmvXHJfjlHEMpYH-230" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="10" target="Pvc_LrXksF8-Iq35pGag-325">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="Thay đổi nhân khẩu" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="10" value="Thay đổi nhân khẩu" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-540" y="300.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="23" value="Kiểm tra thông tin nhân khẩu cần thay đổi có hợp lệ không" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -25,7 +22,7 @@
         <mxCell id="24" value="Thay đổi nhân khẩu" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-539.9999999999999" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="Lên danh sách học sinh" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="43" value="Lên danh sách học sinh" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="530" y="320" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45" value="Rà soát thông tin cơ bản" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -97,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-325" value="Thay đổi lớn" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-325" value="Thay đổi lớn" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-350" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-326" value="Kiểm tra thông tin mới của&amp;nbsp; hộ có hợp lệ không" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -124,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-336" value="Tách hộ" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-336" value="Tách hộ" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-160" y="300.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-337" value="Kiểm tra điều kiện thành lập hộ mới" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -175,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-347" value="Tạm vắng/ tạm trú" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-347" value="Tạm vắng/ tạm trú" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="300.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-348" value="Kiểm tra thông tin nhân khẩu tạm trú/ tạm vắng có hợp lệ không" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -214,7 +211,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-358" value="Thống kê" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-358" value="Thống kê" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="220" y="300.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-359" value="Liệt kê các tiêu chí cần thống kê" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -241,7 +238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-369" value="Lên danh sách trao thưởng" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-369" value="Lên danh sách trao thưởng" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="750" y="320.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-370" value="Rà soát thành tích của từng em học sinh trong danh sách" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -268,7 +265,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-380" value="Trao thưởng" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-380" value="Trao thưởng" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="950" y="320.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-381" value="Kiểm tra mã học sinh" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -307,7 +304,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-391" value="Thống kê giá trị phần thưởng" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-391" value="Thống kê giá trị phần thưởng" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1160" y="320.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-392" value="Kiểm tra thông tin đợt phát" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -334,7 +331,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-402" value="Thống kê quà từng hộ mỗi đợt" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-402" value="Thống kê quà từng hộ mỗi đợt" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1370" y="320.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-403" value="Kiểm tra thông tin mã hộ" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
@@ -394,7 +391,7 @@
             <mxPoint x="1430" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pvc_LrXksF8-Iq35pGag-426" value="Thêm nhân khẩu mới" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Pvc_LrXksF8-Iq35pGag-426" value="Thêm nhân khẩu mới" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-740" y="300.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pvc_LrXksF8-Iq35pGag-427" value="Kiểm tra thông tin nhân khẩu mới có hợp lệ không" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=14;" parent="1" vertex="1">
